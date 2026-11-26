@@ -8,12 +8,13 @@
     "formatter": {
       "quoteStyle": "single",
       "semicolons": "always",
-      "trailingCommas": "all"
+      "trailingCommas": "none"
     }
   },
   "linter": {
+    "enabled": true,
     "rules": {
-      "recommended": true
+      "preset": "recommended"
     }
   }
 }
